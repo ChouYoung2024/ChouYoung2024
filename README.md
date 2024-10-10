@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChouYoung2024
+- 🌱 Master of UM 2024 Fall 
+- 👀 I’m interested in ML, Bioinformatic,
